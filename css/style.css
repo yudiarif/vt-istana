@@ -530,9 +530,10 @@ a:focus {
 }
 
 .about_section .img-box iframe {
-  width: 95%;
+  width: 90%;
   height: 350px;
   position: relative;
+  margin-left: 13px;
 }
 
 .dish_section .row {
